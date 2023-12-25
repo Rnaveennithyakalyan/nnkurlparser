@@ -7,6 +7,9 @@ setup(
     version='0.1',
     author='R. NAVEEN NITHYA KALYAN',
     author_email='naveennithyakalyan@gmail.com',
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/Rnaveennithyakalyan/urlparser",
     packages=find_packages(),
      entry_points={
         'console_scripts': [
