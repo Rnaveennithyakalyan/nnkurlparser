@@ -16,8 +16,6 @@ setup(
             'urlparser = urlparser:read_urls',
         ],
      },
-    classifiers=[
-        'Programming Language :: Python :: 3',
-        'Operating system :: OS Independent',],
+
 
 )
