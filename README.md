@@ -10,6 +10,11 @@ This is the tool which is used as a Bugbounty automation tool for splitting endp
 It is used to parser the url according to our desire so we can have a detailed and proper implementation of our attacks for Bugbounty.
 
 ## Prerequisites
+<div align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python" />
+    </a>
+</div>    
 Python installed on our system
 
 ## Installation
@@ -38,13 +43,13 @@ print("Parsed URLs:", urls)
 ## Tool Description
 This tools is used to automate the url parser procedure and as a result of which we prioritize and execute the bug bounty process and look for the bugs in a more systematic way!
 
-##Contact Me:
+## Contact Me:
 <div align="center"> 
   <a href="mailto:naveennithyakalyan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/r-naveen-nithya-kalyan-5474bb1b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
