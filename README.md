@@ -24,7 +24,8 @@ The Installation can be proceeded further by the following command in the termin
 ````
 pip install nnkurlparser
 ````
-## Using in programs
+## Usage:
+Importing in a python code:
 ````
 from nnkurlparser import read_urls, main
 
@@ -39,6 +40,16 @@ print("Parsed URLs:", urls)
 #Remember to replace "input.txt" and "output.txt" with the actual file names you want to use.
 
 ````
+Implementing in Terminal:
+<h2 align="left">Step 1:</h2>
+Installing the python package
+<h1 align ="center"><img align="center" src="https://github.com/Rnaveennithyakalyan/nnkurlparser/tree/main/screenshots/1.png" width="700px"></h1>
+<h2 align="left">Step 2:</h2>
+Navigating to the folder where the input file is saved and opening the terminal there
+<h1 align ="center"><img align="center" src="https://github.com/Rnaveennithyakalyan/nnkurlparser/tree/main/screenshots/2.png" width="700px"></h1>
+<h2 align="left">Step 3:</h2>
+After positioning the terminal with the correct directory we have type the following terminal command and at here url.txt is the input file and out.txt is the file in which the output is going to be saved.
+<h1 align ="center"><img align="center" src="https://github.com/Rnaveennithyakalyan/nnkurlparser/tree/main/screenshots/4.png" width="700px"></h1>
 
 ## Tool Description
 This tools is used to automate the url parser procedure and as a result of which we prioritize and execute the bug bounty process and look for the bugs in a more systematic way!
